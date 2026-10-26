@@ -1,7 +1,5 @@
-/*
-# Copyright (c) 2024, 2026, Oracle and/or its affiliates. All rights reserved.
-# The Universal Permissive License (UPL), Version 1.0 as shown at https://oss.oracle.com/licenses/upl/
-*/
+/* Copyright (c) 2024, 2026, Oracle and/or its affiliates. All rights reserved. */
+/* The Universal Permissive License (UPL), Version 1.0 as shown at https://oss.oracle.com/licenses/upl/ */
 :root{color-scheme:light;--ink:#182726;--muted:#62716d;--green:#265c46;--line:#dbe3dc;--paper:#f6f7f2}
 *{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font-family:Inter,ui-sans-serif,system-ui,-apple-system,sans-serif;font-size:15px}
 main{max-width:1220px;margin:auto;padding:28px 36px}header{display:flex;justify-content:space-between;align-items:center;padding-bottom:24px;border-bottom:1px solid var(--line);gap:16px}.brand{display:flex;align-items:center;gap:12px;font-weight:750;letter-spacing:.08em;font-size:13px}.brand small{display:block;font-size:9px;letter-spacing:.23em;margin-top:4px;color:var(--muted)}.mark{display:grid;place-items:center;background:var(--green);color:white;border-radius:10px;width:36px;height:36px;font-family:Georgia,serif;font-size:24px}.status{font-size:12px;background:#e8ece6;border-radius:30px;padding:9px 14px;max-width:55%}.status.ready{background:#e1efdd;color:#315c30}.status.failed{background:#fce9e4;color:#963d2c}
